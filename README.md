@@ -1,5 +1,4 @@
-演示：![演示动图](演示动图.gif)
-
+演示视频链接：https://www.bilibili.com/video/BV1f74A6rE88/?share_source=copy_web&vd_source=6f86c44181a48fdb1438db6cbe452796
 复现日志： [查看](复现日志.md)
 
 
